@@ -1,7 +1,7 @@
 {
-  "name": "vivus",
+  "name": "vivus-w2c",
   "version": "0.4.6",
-  "description": "JavaScript library to make drawing animation on SVG",
+  "description": "Fork of Vivus.js. Additional passes feature, and fixes to non-scaling-stroke.",
   "main": "dist/vivus.js",
   "scripts": {
     "test": "karma start test/karma.conf.js",
